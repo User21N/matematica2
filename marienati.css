@@ -1,0 +1,29 @@
+ 
+
+ .cabecalho
+ {
+    background-color: blanchedalmond;
+ }
+ h1{
+    text-align: center;
+ }
+ h2{
+    background-color: brown;
+ }
+ .imagem{
+    width: 20px;
+    background-image: linear-gradient();
+ }
+
+ P{
+    font-size: 18px;
+ }
+ .paragrafo1 {
+    font-size: 22px;
+ }
+ .paragrafos {
+    font-size: 18px;
+ }
+ .divisao {
+    background-color: blue;
+ }
