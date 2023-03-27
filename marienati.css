@@ -1,11 +1,10 @@
- 
-
- .cabecalho
+.cabecalho
  {
     background-color: blanchedalmond;
  }
  h1{
     text-align: center;
+    background-color: aqua;
  }
  h2{
     background-color: brown;
@@ -15,7 +14,7 @@
     background-image: linear-gradient();
  }
 
- P{
+ P {
     font-size: 18px;
  }
  .paragrafo1 {
@@ -24,6 +23,11 @@
  .paragrafos {
     font-size: 18px;
  }
- .divisao {
-    background-color: blue;
+ .lista {
+    display: inline-block;
+    margin: 16px;
+ }
+ footer{ 
+
+
  }
